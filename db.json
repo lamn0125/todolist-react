@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Learn to create custom hooks",
+      "isDone": true,
+      "id": 2
+    },
+    {
+      "title": "Learn to use context",
+      "isDone": true,
+      "id": 3
+    },
+    {
+      "title": "Learn to implement auth",
+      "isDone": false,
+      "id": 4
+    }
+  ]
+}
